@@ -1,8 +1,4 @@
 ### Hello Everyone, I am Valliammai 👋
-
-
-![crooped](https://user-images.githubusercontent.com/18391760/129055491-9e2e4957-3d77-4a6c-93b1-80ee826d507b.png)
-
 <!--
 **ValliVignesh/ValliVignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
