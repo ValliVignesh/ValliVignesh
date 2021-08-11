@@ -11,4 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Hobby: Loves learning and cooking 
 
+<br>
+
+<a href="https://github.com/ValliVignesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValliVignesh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Valli's github stats" />
+</a>
+<a href="https://github.com/ValliVignesh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValliVignesh&layout=compact&hide_border=true&hide=Jupyter%20Notebook ,html,Tex&langs_count=8&theme=tokyonight" />
+</a>
 
